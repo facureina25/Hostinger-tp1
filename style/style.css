@@ -123,10 +123,10 @@
 
 .content-flex{
     display: flex;
-    align-items: center;
+    /* align-items: center; */
     flex-direction: row;
     justify-content: space-between;
-    padding: 0 40px 0 40px;
+    /* padding: 0 40px 0 40px; */
     margin: 0 158px 0 158px;
     gap: 8px;
 }
